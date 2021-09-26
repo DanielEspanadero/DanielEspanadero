@@ -33,8 +33,8 @@ I'm a front-end web developer with passion to create and learn new things every 
 </br>
 [![Udemy](https://img.shields.io/badge/Udemy-daniel_espanadero_fernandez-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/user/daniel-espanadero-fernandez/)
 </br>
-[![Web](https://img.shields.io/badge/My_Website-daniel-espanadero.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://daniel-espanadero.com)
+[![Web](https://img.shields.io/badge/My_Website-daniel_espanadero.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://daniel-espanadero.com)
 </br>
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/developer@daniel-espanadero.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:developer@daniel-espanadero.com)
+[![Email](https://img.shields.io/badge/developer@daniel_espanadero.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:developer@daniel-espanadero.com)
