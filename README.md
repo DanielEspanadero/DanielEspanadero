@@ -1,4 +1,4 @@
-# ! 👋🏻 Hello, my name is Daniel Españadero
+# 👋🏻 Hello, my name is Daniel Españadero
 ### Freelance web developer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCytSoY4twW6E-OoIPaP275g?style=social)](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
