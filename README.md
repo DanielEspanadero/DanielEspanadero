@@ -18,7 +18,7 @@ I'm a front-end web developer with passion to create and learn new things every 
 </br>
 [![AdobePhotoshop](https://img.shields.io/badge/Adobe_Photoshop-001D34?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)]()
 </br>
-[![AdobeLightroomClassic](https://img.shields.io/badge/Adobe_LightroomClassic-2FA3F7?style=for-the-badge&logo=adobelightroom&logoColor=white&labelColor=101010)]()
+[![AdobeLightroomClassic](https://img.shields.io/badge/Adobe_Lightroom_Classic-2FA3F7?style=for-the-badge&logo=adobelightroom&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 [![YouTube](https://img.shields.io/badge/YouTube-Dif-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g)
