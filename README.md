@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Daniel Españadero</h1>
 <h3 align="center">A passionate web developer from Barcelona (Spain)</h3>
 
-- 👨‍💻 All of my projects are available at [https://daniel-espanadero.com/](https://daniel-espanadero.com/)
+- 👨‍💻 All of my projects are available at [https://daniel-espanadero.com/](https://daniel-espanadero.com/) (I need to catch up and update)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js...**
 
@@ -15,48 +15,70 @@
 <a href="https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g" height="40" width="50" /></a>
 </p><br>
 
-<h3 align="center">Languages and Tools:</h3>
-  <p align="center"> Frontend: </p>
-  <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
-</p>
+## ⚡ Technologies
 
-<p align="center"> Backend: </p>
-  <p align="center"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> </a> 
-  </p>
-  
-  <p align="center"> Databases: </p>
-  <p align="center"> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
-  </p>
-  
-  <p align="center"> Testing: </p>
-  <p align="center"> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/> </a> 
-  </p>
-  
-  <p align="center"> Version control: </p>
-  <p align="center"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png" alt="github" width="80" height="60"/> </a> 
-  </p>
+### :speech_balloon: Languages
 
-  <p align="center"> Adobe </p>
-  <p align="center"> 
-  <a href="https://www.adobe.com/es/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://ourworldinfocus.com/wp-content/uploads/2020/07/Adobe-Lightroom.png" alt="lightroom" width="60" height="60"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> 
-  <a href="https://www.adobe.com/es/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc-1.svg" alt="premiere" width="60" height="60"/> </a> 
-  </p><br>
+| <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+
+### :floppy_disk: Databases
+
+| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+
+### 🖼️ Frameworks
+
+| <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Express" alt="Express" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> | <img title="React" alt="React" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> | <img title="Jest" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> | 
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+
+### :wrench: Tools
+
+| <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"> | <img title="Babel" alt="Babel" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"> | 
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
   
-  
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/irondif"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/irondif" /></a></p><br><br>
+## :muscle: My strengths
+- :question: I try to **learn** something new every day.
+- 👥 I try to bring out the best in people.
+- ✅ **Validation** nerd.
+
+<br>
+
+## :sweat_smile: My flaws
+- 🤯 Sometimes I find it hard to take a break.
+- :tshirt: I'm not good at dressing like an adult.
+- :innocent: Sorry, what was your name?
+
+<br>
+
+## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
+
+<a href='https://youtu.be/Fh0eAzfvPTI' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/Fh0eAzfvPTI/maxresdefault.jpg' alt='👨🏻‍💻 CURSO DE SQL / MYSQL | 📈 DE 0 A EXPERTO' />
+</a>
+<a href='https://youtu.be/S6G7RBKdnVE' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/S6G7RBKdnVE/maxresdefault.jpg' alt='¿COMO PROGRAMAR UNA RED BLOCKCHAIN CON JAVASCRIPT? (NODE JS)' />
+</a>
+<a href='https://youtu.be/B2ZJ2N1-iNI' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/B2ZJ2N1-iNI/maxresdefault.jpg' alt='💻 APLICACIÓN TO-DO EN CONSOLA INTERACTIVA CON NODEJS 🟢 (COLORS 🌈, INQUIRER 🎮, UUID 🆔, FS 📜)' />
+</a>
+
+<br>
+
+## 🏆🥇 1st place in some [hackathons](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
+
+<a href='https://www.youtube.com/watch?v=I3S3_0_3xCc' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/I3S3_0_3xCc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNFd9Eb9sCTU8yZ7qOnegzvKkdhw' alt='🥇 GANADORES MOBILE WORD CONGRESS BARCELONA 2022 | 🧑🏻‍💻👩🏻‍💻HACKATHON' />
+</a>
+<a href='https://www.youtube.com/watch?v=rqsXVvWMHYc' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/rqsXVvWMHYc/maxresdefault.jpg' alt='🥇 GANADORES #VILADEHACK TOURISM 2022 | 🧑🏻‍💻👩🏻‍💻 #HACKATHON #VILADECANS' />
+</a>
+
+<br>
+
+## 🤔 Other interesting facts from my github
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielespanadero&show_icons=true&locale=en&layout=compact" alt="danielespanadero" /></p><br><br>
 
