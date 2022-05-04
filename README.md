@@ -54,6 +54,7 @@
 <br>
 
 ## 📹 Some of my programming videos on YouTube
+
 <br>
 
 <a href='https://youtu.be/Fh0eAzfvPTI' target='_blank'>
@@ -69,6 +70,7 @@
 <br>
 
 ## 🏆🥇 1st place in some hackathons
+
 <br>
 
 <a href='https://www.youtube.com/watch?v=I3S3_0_3xCc' target='_blank'>
