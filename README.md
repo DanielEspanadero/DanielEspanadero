@@ -53,7 +53,7 @@
 
 <br>
 
-## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
+## 📹 Some of my programming videos on YouTube
 
 <a href='https://youtu.be/Fh0eAzfvPTI' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/Fh0eAzfvPTI/maxresdefault.jpg' alt='👨🏻‍💻 CURSO DE SQL / MYSQL | 📈 DE 0 A EXPERTO' />
@@ -67,7 +67,7 @@
 
 <br>
 
-## 🏆🥇 1st place in some [hackathons](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
+## 🏆🥇 1st place in some hackathons
 
 <a href='https://www.youtube.com/watch?v=I3S3_0_3xCc' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/I3S3_0_3xCc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNFd9Eb9sCTU8yZ7qOnegzvKkdhw' alt='🥇 GANADORES MOBILE WORD CONGRESS BARCELONA 2022 | 🧑🏻‍💻👩🏻‍💻HACKATHON' />
