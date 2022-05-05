@@ -53,7 +53,7 @@
 
 <br>
 
-## 📹 Some of my programming videos on YouTube
+## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
 
-## 🏆🥇 1st place in some hackathons
+## 🏆🥇 1st place in some [hackathons](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
 
 <br>
 
